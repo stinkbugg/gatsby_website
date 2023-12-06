@@ -1,14 +1,16 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Floating Point Addition'
+github: 'https://github.com/stinkbugg/FloatingPointAddition'
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - C
+  - C++
+  - Assembly
+  - Recursion
+
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+C program that implements mathematical functions only utilizing bit manipulation on floating point 16-bit integers.
