@@ -1,3 +1,14 @@
+import React from 'react';
+
+const Archive = () => (
+  <div>
+    <h1>Archive Page</h1>
+    <p>This page is currently unavailable.</p>
+  </div>
+);
+
+export default Archive;
+
 // import React, { useRef, useEffect } from 'react';
 // import { graphql } from 'gatsby';
 // import PropTypes from 'prop-types';
