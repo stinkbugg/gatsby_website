@@ -65,23 +65,18 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I am a passionate, full-time, self-employed problem solver. I like to break, fix, and modify
+        anything remotely interesting that I can get my hands on.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/stinkbugg/Computer-Assisted-Design-/blob/main/ML_project.ipynb"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my AI project!
     </a>
   );
 

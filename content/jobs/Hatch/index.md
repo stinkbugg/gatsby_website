@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Grand Canyon River Guide'
+company: 'Hatch River Expeditions'
+location: 'Grand Canyon, AZ'
+range: '2015 - 2022'
+url: 'https://www.hatchriverexpeditions.com/'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS
