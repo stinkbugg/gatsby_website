@@ -134,20 +134,31 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hey there, I'm Thad.</p>
-
-            <p>Well, hopefully, this website starts to paint the picture.</p>
+            <p>
+              Hey there, I'm Thad. I recently graduated from Colorado State University in Computer
+              Science, where I honed my skills in a variety of programming languages like Java, C++,
+              and Python. I'm not your typical tech grad; I spent summers as a Grand Canyon guide,
+              leading groups down the Colorado River, which taught me invaluable lessons in
+              teamwork, communication, and adaptability.
+            </p>
 
             <p>
-              {/* Fast-forward to today, and I’ve had the privilege of working at{' '}
+              My passion lies in blending my technical expertise with the creative problem-solving
+              skills I developed in the great outdoors. Now, as I transition from river guiding, I'm
+              eager to contribute to a team that values innovation and unique perspectives. I'm
+              ready to embark on new adventures in the tech world, bringing a blend of solid coding
+              skills and real-world experience.
+            </p>
+            {/* <p>
+              Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients. */}
-            </p>
+              clients.
+            </p> */}
 
             <p>
               {/* I also recently{' '}

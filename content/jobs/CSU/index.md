@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'Software Engineer Course'
-company: 'CS program'
+company: 'CS Program'
 location: 'Fort Collins, CO'
 range: 'January 2023 - May 2023'
 url: 'https://compsci.colostate.edu/'
