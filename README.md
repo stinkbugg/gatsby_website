@@ -1,3 +1,4 @@
+## ADOPTED FROM https://github.com/bchiang7/v4
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
