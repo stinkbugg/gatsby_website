@@ -135,19 +135,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there, I'm Thad. I recently graduated from Colorado State University in Computer
-              Science, where I honed my skills in a variety of programming languages like Java, C++,
-              and Python. I'm not your typical tech grad; I spent summers as a Grand Canyon guide,
-              leading groups down the Colorado River, which taught me invaluable lessons in
+              Hey there, I'm Thad. I recently graduated from Colorado State University in{' '}
+              <a href="/">Computer Science</a>, where I honed my skills in a variety of programming
+              languages like Java, C++, and Python. I'm not your typical tech grad; I spent summers
+              as a{' '}
+              <a href="https://www.hatchriverexpeditions.com/grand-canyon-motorized-rafting-expeditions/seven-day-grand-canyon">
+                {' '}
+                Grand Canyon River Guide
+              </a>
+              , leading groups down the Colorado River, which taught me invaluable lessons in
               teamwork, communication, and adaptability.
             </p>
 
             <p>
               My passion lies in blending my technical expertise with the creative problem-solving
-              skills I developed in the great outdoors. Now, as I transition from river guiding, I'm
-              eager to contribute to a team that values innovation and unique perspectives. I'm
-              ready to embark on new adventures in the tech world, bringing a blend of solid coding
-              skills and real-world experience.
+              skills I developed in the great outdoors. Now, as I transition from river guiding,{' '}
+              <a href="/">I'm eager to contribute to </a>{' '}
+              <a href="/">a team that values innovation and unique perspectives</a>. I'm excited to
+              embark on new adventures in the tech world, bringing a blend of solid coding skills
+              and real-world experience.
             </p>
             {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}

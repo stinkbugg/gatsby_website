@@ -7,7 +7,7 @@ range: '2015 - 2022'
 url: 'https://www.hatchriverexpeditions.com/'
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Led and facilitated week-long excursions for groups of up to 30 people, navigating the Colorado River in the remote and stunning Grand Canyon.
+- Took on diverse responsibilities, including driving 30-foot motorboats, delivering interpretive presentations, providing orientations, cooking meals, guiding hikes, and offering engaging entertainment throughout the journey.
+- Demonstrated high-stress leadership by successfully managing and guiding new groups of people on week-long expeditions in a challenging and dangerous environment.
+- Safeguarded the well-being of passengers throughout all 51 trips by effectively implementing safety protocols and providing thorough briefings on potential hazards.
