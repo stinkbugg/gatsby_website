@@ -149,11 +149,10 @@ const About = () => {
 
             <p>
               My passion lies in blending my technical expertise with the creative problem-solving
-              skills I developed in the great outdoors. Now, as I transition from river guiding,{' '}
-              <a href="/">I'm eager to contribute to </a>{' '}
-              <a href="/">a team that values innovation and unique perspectives</a>. I'm excited to
-              embark on new adventures in the tech world, bringing a blend of solid coding skills
-              and real-world experience.
+              skills I developed in the great outdoors. I'm eager to contribute to a team that
+              values <a href="/"> innovation and unique perspectives</a>. I'm excited to embark on
+              new adventures in the tech world, bringing a blend of solid coding skills and
+              real-world experience.
             </p>
             {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
