@@ -64,7 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I like to code.</h3>;
   const four = (
     <>
-      <p>I apply my programming skills to creatively solve complex challenges.</p>
+      <p>Apply my programming skills to creatively solve complex challenges.</p>
     </>
   );
   const five = (
