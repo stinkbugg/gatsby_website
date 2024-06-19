@@ -135,16 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there, I'm Thad. I recently graduated from Colorado State University in{' '}
-              <a href="/">Computer Science</a>, where I honed my skills in a variety of programming
-              languages like Java, C++, and Python. I'm not your typical tech grad; I spent summers
-              as a{' '}
+              Hey there, I'm Thad. I am currently working as a Full-Stack Software Engineer for{' '}
+              <a href="https://trusolutions.com" target="_blank" rel="noreferrer">
+                Tru Solutions
+              </a>
+              , where I focus on Automation testing with{' '}
+              <a href="https://nightwatchjs.org/" target="_blank" rel="noreferrer">
+                Nightwatch.js.
+              </a>
+            </p>
+            <p>
+              Before I was a Software Engineer, I spent my summers as a{' '}
               <a href="https://www.hatchriverexpeditions.com/grand-canyon-motorized-rafting-expeditions/seven-day-grand-canyon">
                 {' '}
                 Grand Canyon River Guide
               </a>
-              , leading groups down the Colorado River, which taught me invaluable lessons in
-              teamwork, communication, and adaptability.
+              . Leading groups down the Colorado River taught me invaluable lessons in teamwork,
+              communication, and adaptability.
             </p>
 
             <p>
