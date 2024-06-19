@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2018-05-13'
 title: 'Organic Chemistry II Tutor'
 company: 'Colorado State University'
 location: 'Fort Collins, CO'
